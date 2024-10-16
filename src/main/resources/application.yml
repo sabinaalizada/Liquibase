@@ -1,0 +1,7 @@
+server:
+    servlet:
+        context-path: /home
+spring:
+    profiles:
+        include:
+            -db

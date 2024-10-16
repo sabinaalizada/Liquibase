@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: liquibase/changelog/2024-10-15-01-create-person-table.yml
+  - include:
+      file: liquibase/changelog/2024-10-15-01-create-address-table.yml
